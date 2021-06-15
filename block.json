@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "goodmotion/gm-wrapper-line",
+	"title": "GM Wrapper Line",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Wrapper line",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "gm-wrapper-line",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
