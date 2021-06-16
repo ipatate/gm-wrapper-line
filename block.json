@@ -2,8 +2,8 @@
 	"apiVersion": 2,
 	"name": "goodmotion/gm-wrapper-line",
 	"title": "GM Wrapper Line",
-	"category": "widgets",
-	"icon": "smiley",
+	"category": "goodmotion-blocks",
+	"icon": "editor-justify",
 	"description": "Wrapper line",
 	"supports": {
 		"html": false
